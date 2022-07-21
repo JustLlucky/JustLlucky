@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JustLlucky
 - 👀 I’m interested in frontend and web
-- 🌱 I’m just star to learning
+- 🌱 I’m just stared to learn
 - 📫 contact me on justmysafe@gmail.com
 
 <!---
